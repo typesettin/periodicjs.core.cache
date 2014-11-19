@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "async": "0.9.0",
+    "du": "^0.1.0",
     "fs-extra": "0.9.1",
     "periodicjs.core.utilities": "~1.90.10",
     "semver": "2.3.0",
