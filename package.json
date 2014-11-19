@@ -1,7 +1,7 @@
 {
-  "name": "periodicjs.core.controller",
+  "name": "periodicjs.core.cache",
   "description": "Customizable CMS platform",
-  "version": "2.0.3",
+  "version": "2.9.5",
   "main": "index.js",
   "engines": {
     "node": ">=0.10.x"
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/typesettin/periodicjs.core.controller.git"
+    "url": "git://github.com/typesettin/periodicjs.core.cache.git"
   },
   "scripts": {
     "test": "mocha -R spec --recursive"
@@ -57,12 +57,12 @@
   ],
   "gitHead": "5f461eac9506e2d6538741fef9e5854306b00258",
   "bugs": {
-    "url": "https://github.com/typesettin/periodicjs.core.controllerhelper/issues"
+    "url": "https://github.com/typesettin/periodicjs.core.cachehelper/issues"
   },
-  "homepage": "https://github.com/typesettin/periodicjs.core.controllerhelper",
-  "_id": "periodicjs.core.controller@2.0.3",
+  "homepage": "https://github.com/typesettin/periodicjs.core.cachehelper",
+  "_id": "periodicjs.core.cache@2.0.3",
   "_shasum": "1c6e20aac7d24724e247e52b941eb8db4c314ad7",
-  "_from": "periodicjs.core.controller@2.0.3",
+  "_from": "periodicjs.core.cache@2.0.3",
   "_npmVersion": "2.0.0-beta.0",
   "_npmUser": {
     "name": "yawetse",
@@ -80,8 +80,8 @@
   ],
   "dist": {
     "shasum": "1c6e20aac7d24724e247e52b941eb8db4c314ad7",
-    "tarball": "http://registry.npmjs.org/periodicjs.core.controller/-/periodicjs.core.controller-2.0.3.tgz"
+    "tarball": "http://registry.npmjs.org/periodicjs.core.cache/-/periodicjs.core.cache-2.0.3.tgz"
   },
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/periodicjs.core.controller/-/periodicjs.core.controller-2.0.3.tgz"
+  "_resolved": "https://registry.npmjs.org/periodicjs.core.cache/-/periodicjs.core.cache-2.0.3.tgz"
 }
