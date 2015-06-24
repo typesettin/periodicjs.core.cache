@@ -19,23 +19,23 @@
     "test": "mocha -R spec --recursive"
   },
   "dependencies": {
-    "async": "0.9.0",
+    "async": "^1.2.1",
     "du": "^0.1.0",
-    "fs-extra": "0.12.0",
+    "fs-extra": "^0.20.1",
     "periodicjs.core.utilities": "~3.1.1",
-    "tinycache": "^0.1.5"
+    "tinycache": "^1.1.0"
   },
   "devDependencies": {
-    "chai": "1.10.0",
-    "grunt": ">=0.4.5",
-    "grunt-contrib-jshint": ">=0.4.3",
-    "grunt-contrib-watch": ">=0.4.1",
-    "grunt-jsbeautifier": ">=0.2.7",
-    "grunt-jsdoc": ">=0.5.7",
-    "jsdoc": "3.3.0-alpha10",
-    "grunt-newer": ">=0.7.0",
-    "grunt-simple-mocha": ">=0.4.0",
-    "mocha": "2.0.1"
+    "chai": "^3.0.0",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-jsbeautifier": "^0.2.10",
+    "grunt-jsdoc": "^0.6.7",
+    "grunt-newer": "^1.1.1",
+    "grunt-simple-mocha": "^0.4.0",
+    "jsdoc": "^3.3.2",
+    "mocha": "^2.2.5"
   },
   "keywords": [
     "content management framework",
@@ -59,9 +59,9 @@
     "url": "https://github.com/typesettin/periodicjs.core.cachehelper/issues"
   },
   "homepage": "https://github.com/typesettin/periodicjs.core.cachehelper",
-  "_id": "periodicjs.core.cache@2.0.3",
-  "_shasum": "1c6e20aac7d24724e247e52b941eb8db4c314ad7",
-  "_from": "periodicjs.core.cache@2.0.3",
+  "_id": "periodicjs.core.cache@3.2.0",
+  "_shasum": "b89ea11da11ec1d4a0c6de5ff1ad01e0d7f1fb13",
+  "_from": "periodicjs.core.cache@3.2.0",
   "_npmVersion": "2.0.0-beta.0",
   "_npmUser": {
     "name": "yawetse",
@@ -71,16 +71,13 @@
     {
       "name": "yawetse",
       "email": "yaw.etse@gmail.com"
-    },
-    {
-      "name": "ecasilla",
-      "email": "ecasilla@icloud.com"
     }
   ],
   "dist": {
-    "shasum": "1c6e20aac7d24724e247e52b941eb8db4c314ad7",
-    "tarball": "http://registry.npmjs.org/periodicjs.core.cache/-/periodicjs.core.cache-2.0.3.tgz"
+    "shasum": "b89ea11da11ec1d4a0c6de5ff1ad01e0d7f1fb13",
+    "tarball": "http://registry.npmjs.org/periodicjs.core.cache/-/periodicjs.core.cache-3.2.0.tgz"
   },
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/periodicjs.core.cache/-/periodicjs.core.cache-2.0.3.tgz"
+  "_resolved": "https://registry.npmjs.org/periodicjs.core.cache/-/periodicjs.core.cache-3.2.0.tgz",
+  "readme": "ERROR: No README data found!"
 }
