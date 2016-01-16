@@ -1,7 +1,7 @@
 {
   "name": "periodicjs.core.cache",
   "description": "Customizable CMS platform",
-  "version": "5.9.1",
+  "version": "5.9.0",
   "main": "index.js",
   "engines": {
     "node": ">=0.10.x"
@@ -13,9 +13,8 @@
   },
   "contributors": [
     {
-      "name": "Jan Bialostok",
-      "email": "janbialostok@gmail.com",
-      "url": "https://github.com/janbialostok"
+      "name": "Yaw Joseph Etse",
+      "email": "yaw.etse@gmail.com"
     }
   ],
   "repository": {
@@ -54,21 +53,15 @@
     "Content Management System",
     "Periodic Decoupled Framework"
   ],
-  "contributors": [
-    {
-      "name": "Yaw Joseph Etse",
-      "email": "yaw.etse@gmail.com"
-    }
-  ],
   "gitHead": "5f461eac9506e2d6538741fef9e5854306b00258",
   "bugs": {
     "url": "https://github.com/typesettin/periodicjs.core.cachehelper/issues"
   },
   "homepage": "https://github.com/typesettin/periodicjs.core.cachehelper",
-  "_id": "periodicjs.core.cache@3.2.0",
-  "_shasum": "b89ea11da11ec1d4a0c6de5ff1ad01e0d7f1fb13",
-  "_from": "periodicjs.core.cache@3.2.0",
-  "_npmVersion": "2.0.0-beta.0",
+  "_id": "periodicjs.core.cache@5.9.1",
+  "_shasum": "d94bfa06d612fcbcea0010105a828332eda1b002",
+  "_from": "periodicjs.core.cache@5.9.1",
+  "_npmVersion": "2.11.2",
   "_npmUser": {
     "name": "yawetse",
     "email": "yaw.etse@gmail.com"
@@ -80,10 +73,11 @@
     }
   ],
   "dist": {
-    "shasum": "b89ea11da11ec1d4a0c6de5ff1ad01e0d7f1fb13",
-    "tarball": "http://registry.npmjs.org/periodicjs.core.cache/-/periodicjs.core.cache-3.2.0.tgz"
+    "shasum": "d94bfa06d612fcbcea0010105a828332eda1b002",
+    "tarball": "http://registry.npmjs.org/periodicjs.core.cache/-/periodicjs.core.cache-5.9.1.tgz"
   },
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/periodicjs.core.cache/-/periodicjs.core.cache-3.2.0.tgz",
+  "_resolved": "https://registry.npmjs.org/periodicjs.core.cache/-/periodicjs.core.cache-5.9.1.tgz",
+  "_nodeVersion": "0.12.6",
   "readme": "ERROR: No README data found!"
 }
