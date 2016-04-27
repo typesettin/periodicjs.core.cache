@@ -1,10 +1,10 @@
 {
   "name": "periodicjs.core.cache",
-  "description": "Customizable CMS platform",
-  "version": "7.0.0",
+  "description": "Caching library for periodic express applications",
+  "version": "6.9.0",
   "main": "index.js",
   "engines": {
-    "node": ">=4.x"
+    "node": "~4.x"
   },
   "author": {
     "name": "Yaw Joseph Etse",
@@ -57,27 +57,7 @@
   "bugs": {
     "url": "https://github.com/typesettin/periodicjs.core.cachehelper/issues"
   },
+  "readme": "Caching library for periodic express applications",
   "homepage": "https://github.com/typesettin/periodicjs.core.cachehelper",
-  "_id": "periodicjs.core.cache@5.9.1",
-  "_shasum": "d94bfa06d612fcbcea0010105a828332eda1b002",
-  "_from": "periodicjs.core.cache@5.9.1",
-  "_npmVersion": "2.11.2",
-  "_npmUser": {
-    "name": "yawetse",
-    "email": "yaw.etse@gmail.com"
-  },
-  "maintainers": [
-    {
-      "name": "yawetse",
-      "email": "yaw.etse@gmail.com"
-    }
-  ],
-  "dist": {
-    "shasum": "d94bfa06d612fcbcea0010105a828332eda1b002",
-    "tarball": "http://registry.npmjs.org/periodicjs.core.cache/-/periodicjs.core.cache-5.9.1.tgz"
-  },
-  "directories": {},
-  "_resolved": "https://registry.npmjs.org/periodicjs.core.cache/-/periodicjs.core.cache-5.9.1.tgz",
-  "_nodeVersion": "0.12.6",
-  "readme": "ERROR: No README data found!"
+  "license": "MIT"
 }
